@@ -1,0 +1,51 @@
+body
+{
+background: url(bck.png);	
+}
+
+#zone
+{
+margin:auto;
+
+}
+
+#bandeau
+{
+	background: url(bandeau.gif);
+	color:white;
+	margin:auto;
+	border-top: 5px solid white;
+		border-left: 5px solid white;
+			border-right: 5px solid white;
+	width:600px;
+	height:200px;
+
+}
+
+
+
+#chatbox
+{
+	background: url(fand.png);
+	color:white;
+	margin:auto;
+	border-top: 5px solid white;
+		border-left: 5px solid white;
+			border-right: 5px solid white;
+	width:600px;
+	height:400px;
+
+}
+
+#envoi
+{
+	
+	background:black;
+	color:white;
+	margin:auto;
+	border: 5px solid white;
+
+	width:600px;
+	height:100px;
+
+}

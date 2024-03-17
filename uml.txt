@@ -1,0 +1,31 @@
+===MY3DGAME===
+
+Base de données:
+	->Utilisateurs
+	->Terrains créés
+
+
+Page d'accueil
+	->Présentation
+	->Inscription
+	->Connexion (une fois co, Menu Principal)
+	->Crédits (créé par MatR)
+
+Menu Principal:
+
+	Créer:
+	-> Titre et screen du jeu
+	-> Editeur de maps
+	-> Editeur d'évènements (véhicules, personnages, bande-son)
+	-> Créateur de missions
+
+	Jouer:
+	-> Chambre solo
+	-> Chambre online
+
+	Partager:
+	-> Profil social avec abonnés
+	-> Réseau social avec
+		-> Le TOP 10
+		-> Nouveautés
+
